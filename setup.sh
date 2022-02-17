@@ -160,7 +160,7 @@ echo "   - SS-OBFS HTTP            : 3443-3543"  | tee -a log-install.txt
 echo "   - V2RAY Vmess TLS         : 8443"  | tee -a log-install.txt
 echo "   - V2RAY Vmess None TLS    : 8880"  | tee -a log-install.txt
 echo "   - V2RAY Vless TLS         : 2083"  | tee -a log-install.txt
-echo "   - V2RAY Vless None TLS    : 8880"  | tee -a log-install.txt
+echo "   - V2RAY Vless None TLS    : 2095"  | tee -a log-install.txt
 echo "   - Trojan                  : 2087"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "   >>> Server Information & Other Features"  | tee -a log-install.txt
